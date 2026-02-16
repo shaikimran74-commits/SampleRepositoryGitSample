@@ -1,4 +1,4 @@
-Let a = 10;
-Let b = 20;
+let a = 10;
+let b = 20;
 let c = a+b;
-console.log(c)
+console.log("Sum is: " + c);
