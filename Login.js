@@ -1,4 +1,4 @@
 function Login()
 {
-    console.log("Login was sucessfull")
+    console.log("Login was Sucessfull")
 }
